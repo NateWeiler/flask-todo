@@ -61,5 +61,5 @@ If you've forked this repo, you can deploy your code by clicking the button abov
 
 
 ## Collaborators:
-Julio Pochet Edmead
 Nathan Weiler
+Julio Pochet Edmead
